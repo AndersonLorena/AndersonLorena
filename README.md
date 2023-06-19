@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AndersonLorena
-- 👀 I’m interested in Enterprise Software Develop
-- 🌱 I’m currently learning node.js deep details
-- 💞️ I’m looking to collaborate new frameworks
-- 📫 How to reach me: Send a message
+- 👀 I’m interested in Enterprise Software Development
+- 🌱 I’m currently learning spring boot deep details
+- 💞️ I’m looking to collaborate on new frameworks
+- 📫 How to reach me: Fell free to send a message
 
 <!---
 AndersonLorena/AndersonLorena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
